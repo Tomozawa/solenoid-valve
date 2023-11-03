@@ -36412,7 +36412,7 @@ Source: &lt;a href="https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230
 <part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="100"/>
 <part name="GND27" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GNDIO" device=""/>
 <part name="GND36" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GNDIO" device=""/>
-<part name="C22" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E2-5" package3d_urn="urn:adsk.eagle:package:23346/2"/>
+<part name="C22" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E2-5" package3d_urn="urn:adsk.eagle:package:23346/2" value="100u"/>
 <part name="GND50" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND54" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
@@ -38708,6 +38708,32 @@ Source: &lt;a href="https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,3,76.2,73.66,U2,GND,GNDIO,,,"/>
+<approved hash="104,3,76.2,68.58,U2,VS,+5V,,,"/>
+<approved hash="106,2,132.08,45.72,SOLV7,,,,,"/>
+<approved hash="106,2,99.06,83.82,SOLV8,,,,,"/>
+<approved hash="113,2,194.31,2.86173,D9,,,,,"/>
+<approved hash="113,2,194.31,-4.75827,D10,,,,,"/>
+<approved hash="113,2,194.31,-12.3783,D11,,,,,"/>
+<approved hash="113,3,106.68,54.4297,F1,,,,,"/>
+<approved hash="113,4,65.4583,35.56,D8,,,,,"/>
+<approved hash="113,1,85.7783,162.56,D0,,,,,"/>
+<approved hash="113,2,11.4723,108.994,JP1,,,,,"/>
+<approved hash="113,1,94.2171,162.016,X0,,,,,"/>
+<approved hash="113,1,233.098,162.56,D1,,,,,"/>
+<approved hash="113,1,241.537,162.016,X1,,,,,"/>
+<approved hash="113,1,88.3183,81.28,D2,,,,,"/>
+<approved hash="113,1,96.7571,80.7364,X2,,,,,"/>
+<approved hash="113,1,233.098,78.74,D3,,,,,"/>
+<approved hash="113,1,241.537,78.1964,X3,,,,,"/>
+<approved hash="113,1,88.3183,-2.54,D4,,,,,"/>
+<approved hash="113,1,96.7571,-3.08356,X4,,,,,"/>
+<approved hash="113,1,233.098,-2.54,D5,,,,,"/>
+<approved hash="113,1,241.537,-3.08356,X5,,,,,"/>
+<approved hash="113,1,88.3183,-83.82,D6,,,,,"/>
+<approved hash="113,1,96.7571,-84.3636,X6,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
